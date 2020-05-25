@@ -5,4 +5,4 @@
 # 结果保存
 完成输入之后，将结果保存到txt文件中，输入希望保存结果的txt文件对应的路径，如“/home/yjw/result.txt”
 # 问题解决
-如出现缺少模块的提示，如“Resource punkt not found”，将当前文件中的相关模块放入错误提示“search in”下方对应的路径中即可。
+如出现缺少模块的提示，如“Resource punkt not found”，将当前文件中的punkt文件夹放入错误提示“search in”下方对应的任意一个路径下即可。
